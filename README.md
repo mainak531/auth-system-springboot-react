@@ -271,11 +271,7 @@ auth-app-boot-react/
 
 ## 🧑‍💻 Author
 
-**Learn Code With Durgesh**  
-Founder — Substring Technologies Pvt. Ltd.  
-📺 [YouTube: LearnCodeWithDurgesh](https://www.youtube.com/@LearnCodeWithDurgesh)  
-🌐 [Website: substring.tech](https://learncodewithdurgesh.com)  
-📬 [Telegram: @learncodewithdurgesh](https://t.me/learncodewithdurgesh)
+**Mainak Chanda**
 
 ---
 
